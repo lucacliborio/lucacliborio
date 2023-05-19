@@ -1,7 +1,7 @@
 ### Hi there  eu sou o Luca  C. Libório.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucacliborio&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucacliborio)](https://github.com/lucacliborio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucacliborio=compact)](https://github.com/lucacliborio/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
