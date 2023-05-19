@@ -1,6 +1,6 @@
 ### Hi there  eu sou o Luca  C. Libório.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/lucacliborio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucacliborio&layout=compact&theme=radical)](https://github.com/lucacliborio/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucacliborio&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
