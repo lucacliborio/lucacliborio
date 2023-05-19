@@ -17,5 +17,3 @@
   
 </div>
 
-![Snake animation](https://github.com/lucacliborio/lucacliborio/blob/output/github-contribution-grid-snake.svg)
-
