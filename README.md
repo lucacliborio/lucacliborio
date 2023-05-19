@@ -1,8 +1,7 @@
 ### Hi there  eu sou o Luca  C. Libório.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucacliborio&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucacliborio=compact)](https://github.com/lucacliborio/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/lucaliborio/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
