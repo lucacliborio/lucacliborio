@@ -17,4 +17,4 @@
   
 </div>
 
-![snake gif](https://github.com/lucacliborio/lucacliborio/blob/output/github-contribution-grid-snake.svg)
+
