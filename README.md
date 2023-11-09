@@ -9,20 +9,20 @@
 - 🌱 Estou cursando Sistemas de Informação 2º período ...
 </div>
 
-<h2 align="center" style="color:#206E91">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 style="color:#206E91" align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=c,bootstrap,html,css,vscode,github,figma,git" />
 </div>
 
-<h2 align="center" style="color:#206E91"> Redes Sociais </h2>
+<h2 style="color:#206E91" align="center" > Redes Sociais </h2>
 <br>
 <div align="center" >
   <a href="https://www.linkedin.com/in/luca-c-lib%C3%B3rio-26a954261/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin target="_blank"></a>
   <a href="https://www.instagram.com/lucac_l/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram target="_blank"></a>
 </div>
 
-<h2 align="center" style="color:#206E91" >⚡Stats⚡</h2>
+<h2 style="color:#206E91" align="center"  >⚡Stats⚡</h2>
 <br>
 <div align="center" >
   <picture>
