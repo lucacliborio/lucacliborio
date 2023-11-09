@@ -18,7 +18,8 @@
 <h2 align="center" >⚒️ Redes Sociais ⚒️</h2>
 <br>
 <div align="center" >
- <a href="https://www.linkedin.com/in/luca-c-lib%C3%B3rio-26a954261/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luca-c-lib%C3%B3rio-26a954261/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin target="_blank"></a>
+  <a href="https://www.instagram.com/lucac_l/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram target="_blank"></a>
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
