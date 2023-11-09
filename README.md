@@ -1,9 +1,9 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Luca+Libório!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=206E91&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=olá!+👋;+me+chamo+Luca+Libório!" />
 </h1>
 
-<div  align="center" >
+<div  align="center" >👋
   - 🔭 Atualmente estou em busca de um estágio...
   <br>
 - 🌱 Estou cursando Sistemas de Informação 2º período ...
