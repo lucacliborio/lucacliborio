@@ -12,7 +12,7 @@
 <h2 style="color:#206E91" align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=cs,c,js,bootstrap,html,css,vscode,github,figma" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,c,js,bootstrap,html,css,vscode,github,figma" />
 </div>
 
 <h2 style="color:#206E91" align="center" > 👨🏻‍💻Redes Sociais👨🏻‍💻 </h2>
